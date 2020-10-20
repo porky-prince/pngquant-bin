@@ -4,6 +4,7 @@
 
 You probably want [`imagemin-pngquant`](https://github.com/imagemin/imagemin-pngquant) instead.
 
+> use https://npm.taobao.org/mirrors/pngquant-bin/ as downlaod source
 
 ## Install
 
